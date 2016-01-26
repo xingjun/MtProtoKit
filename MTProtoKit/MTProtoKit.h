@@ -6,7 +6,7 @@
 //  Copyright (c) 2015 Telegram. All rights reserved.
 //
 
-#import <UIKit/UIKit.h>
+//#import <UIKit/UIKit.h>
 
 //! Project version number for MtProtoKit.
 FOUNDATION_EXPORT double MtProtoKitVersionNumber;
